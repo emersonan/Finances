@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="botaoPressed">#0072bf</color>
+    <color name="botaoPressed1">#800072bf</color>
+    <color name="botaomain">#0072bf</color>
+
+</resources>
